@@ -1,4 +1,4 @@
-# software-templates
+# backstage-templates
 
 This repository is a collection of software and documentation templates for the Backstage community. The templates are organized into two folders: `scaffolder-templates` for Backstage Software Templates and `documentation-templates` for general documentation templates. Contributions are welcome for new and existing templates!
 
